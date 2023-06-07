@@ -5,7 +5,7 @@
 to improve the services they offer to citizens in a fair manner and with a positive impact.
 - 💥 I’m looking to collaborate on all the projects that can help me to grow and improve. 
 - 📫 Contact: mvazq273@gmail.com
-- 🔎 CV: [click-to-take-a-look-of-my-CV](https://mauriciovazquezm.github.io/welcome-to-millennial)
+- 🔎 CV: ['Click to take a look of my CV'](https://mauriciovazquezm.github.io/welcome-to-millennial)
 
 
 

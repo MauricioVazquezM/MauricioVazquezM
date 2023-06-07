@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MauricioVazquezM
-- 👀 I'm interested in the power of data science in the financial world. Similarly, I am interested in the broad applications of artificial intelligence in the biomedical world.
+- 👀 I'm interested in the power of data science in the financial world. Similarly, I am interested in the different applications of artificial intelligence in the biomedical world.
 - 🌱 I’m currently studying a double BS degree in Data Science and Actuarial Science at @ [itam.mx](https://www.itam.mx).
 - 💼 Experience as ITAM's Data Center Data Analyst. The mission is to help organizations, particularly governmental and non-governmental,
 to improve the services they offer to citizens in a fair manner and with a positive impact.

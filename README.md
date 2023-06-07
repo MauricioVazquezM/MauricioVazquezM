@@ -1,16 +1,16 @@
-### Hi there 👋
+- 👋 Hi, I’m @MauricioVazquezM
+- 👀 I'm interested in the power of data science in the financial world.
+- 🌱 I’m currently studying a double BS degree in Data Science and Actuarial Science at @ [itam.mx](https://www.itam.mx).
+- 💼 Experience as ITAM's Data Center Data Analyst. The mission is to help organizations, particularly governmental and non-governmental,
+to improve the services they offer to citizens in a fair manner and with a positive impact.
+- 💥 I’m looking to collaborate on all the projects that can help me to grow and improve. 
+- 📫 Contact: mvazq273@gmail.com
 
-<!--
-**MauricioVazquezM/MauricioVazquezM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### My GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauricioVazquezM&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciovazquezm&layout=compact&theme=dark" /></a>
+
+<br>

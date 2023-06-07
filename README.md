@@ -16,3 +16,5 @@ to improve the services they offer to citizens in a fair manner and with a posit
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciovazquezm&layout=compact&theme=yeblu" /></a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MauricioVazquezM&theme=yeblu)](https://git.io/streak-stats)
+

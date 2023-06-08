@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 - 👋 Hi, I’m @MauricioVazquezM
 - 👀 I'm interested in the power of data science in the financial world. Similarly, I am interested in the different applications of artificial intelligence in the biomedical world.
 - 🌱 I’m currently studying a double BS degree in Data Science and Actuarial Science at @ [itam.mx](https://www.itam.mx).

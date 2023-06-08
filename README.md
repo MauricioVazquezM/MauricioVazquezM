@@ -7,7 +7,9 @@ to improve the services they offer to citizens in a fair manner and with a posit
 - 📫 Contact: mvazq273@gmail.com or mvazq109@itam.mx
 - 🔎 CV: [Click to take a look of my CV](https://mauriciovazquezm.github.io/welcome-to-millennial)
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+</div>
 
 <br>
 
@@ -18,6 +20,3 @@ to improve the services they offer to citizens in a fair manner and with a posit
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MauricioVazquezM&theme=yeblu)](https://git.io/streak-stats)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>

@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 - 👋 Hi, I’m @MauricioVazquezM
 - 👀 I'm interested in the power of data science in the financial world. Similarly, I am interested in the different applications of artificial intelligence in the biomedical world.
 - 🌱 I’m currently studying a double BS degree in Data Science and Actuarial Science at [ITAM](https://www.itam.mx).
@@ -22,3 +18,6 @@ to improve the services they offer to citizens in a fair manner and with a posit
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MauricioVazquezM&theme=yeblu)](https://git.io/streak-stats)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>

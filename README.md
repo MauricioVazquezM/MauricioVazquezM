@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 - 👋 Hi, I’m @MauricioVazquezM
 - 👀 I'm interested in the power of data science in the financial world. Similarly, I am interested in the different applications of artificial intelligence in the biomedical world.
 - 🌱 I’m currently studying a double BS degree in Data Science and Actuarial Science at [ITAM](https://www.itam.mx).
@@ -11,8 +7,8 @@ to improve the services they offer to citizens in a fair manner and with a posit
 - 📫 Contact: mvazq273@gmail.com or mvazq109@itam.mx
 - 🔎 CV: [Click to take a look of my CV](https://mauriciovazquezm.github.io/welcome-to-millennial)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <br>

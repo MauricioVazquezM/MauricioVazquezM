@@ -5,7 +5,7 @@
 to improve the services they offer to citizens in a fair manner and with a positive impact.
 - 💥 I’m looking to collaborate on all the projects that can help me to grow and improve. 
 - 📫 Contact: mvazq273@gmail.com or mvazq109@itam.mx
-- 🔎 CV: [Click to take a look of my CV](https://mauriciovazquezm.github.io/welcome-to-millennial)
+- 🔎 CV: [Click to take a look of my CV](https://drive.google.com/file/d/1vIaN3_Gh3AJMqZ7NCGq1FdvL-XiARObx/view?usp=sharing)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>

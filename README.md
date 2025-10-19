@@ -32,10 +32,14 @@ Always open to collaborate on projects involving **data science**, **artificial 
 
 ---
 
-📫 **Reach me at:**  
-[LinkedIn](https://www.linkedin.com/in/mauricio-vazquez-moran-060aa5266/) · [CV](https://drive.google.com/file/d/1KCJgtVGNL2Gbb6HMsCM-s8QAqfjWU5WP/view?usp=sharing)
+<div align="center">
 
+📫 <strong>Reach me at:</strong><br/>
+<a href="https://www.linkedin.com/in/mauricio-vazquez-moran-060aa5266/">LinkedIn</a> · 
+<a href="https://drive.google.com/file/d/1KCJgtVGNL2Gbb6HMsCM-s8QAqfjWU5WP/view?usp=sharing">CV</a>
 
-<div id="header" align="left">
+<div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 </div>

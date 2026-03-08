@@ -15,6 +15,9 @@
 
 ## 💼 Experience
 
+**Senior Business Analyst – Passenger Platform @ [DiDi](https://www.didiglobal.com/)**  
+Leveraging data analytics and experimentation to enhance passenger experience and optimize mobility platform operations.
+
 **Data Scientist – Pawn Business Strategy @ [Nacional Monte de Piedad](https://www.montepiedad.com.mx)**  
 Developing a machine-learning-based pricing engine and statistical analyses to optimize branch performance and portfolio strategies.
 
